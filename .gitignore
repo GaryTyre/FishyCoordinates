@@ -1,0 +1,14 @@
+*~
+*.swp
+
+.vs
+**/.vs
+
+**/node_modules
+
+**/bin
+**/obj
+**/*.tar
+**/*.gz
+**/*.lock
+fishyCoordsAPI/fishyCoordsAPI/fishyCoordsAPI.csproj
